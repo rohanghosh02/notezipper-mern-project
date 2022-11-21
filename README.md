@@ -36,7 +36,7 @@ You can register a new account or login with an existing one.
 
 ### All Notes
 
-![](https://github.com/Piyush55dude/notezipper/blob/master/images/allnotes.png)
+![](https://github.com/rohanghosh02/notezipper-mern-project/blob/main/images/NotesPage.png)
 
 ### Edit Note
 
