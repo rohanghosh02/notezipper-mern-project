@@ -28,7 +28,7 @@ You can register a new account or login with an existing one.
 
 ### Edit Profile
 
-![](https://github.com/rohanghosh02/notezipper-mern-project/blob/main/images/EditPage.png)
+![](https://github.com/rohanghosh02/notezipper-mern-project/blob/main/images/ProfilePage.png)
 
 ### Create a Note
 
@@ -40,7 +40,7 @@ You can register a new account or login with an existing one.
 
 ### Edit Note
 
-![](https://github.com/rohanghosh02/notezipper-mern-project/blob/main/images/EditPage.png)
+![](https://github.com/rohanghosh02/notezipper-mern-project/blob/main/images/EditNote.png)
 
 ## Built with
 
