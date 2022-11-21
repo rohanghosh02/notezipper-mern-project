@@ -18,21 +18,21 @@ Here is a working live demo : https://notezipper-app-mern.herokuapp.com/
 
 ### Landing Page
 
-![](https://github.com/Piyush55dude/notezipper/blob/master/images/landing.png)
+![](https://github.com/rohanghosh02/notezipper-mern-project/blob/main/images/LandingPage.png)
 
 ### Login Form
 
 You can register a new account or login with an existing one.
 
-![](https://github.com/Piyush55dude/notezipper/blob/master/images/login.png)
+![](https://github.com/rohanghosh02/notezipper-mern-project/blob/main/images/LoginPage.png)
 
 ### Edit Profile
 
-![](https://github.com/Piyush55dude/notezipper/blob/master/images/profile.png)
+![](https://github.com/rohanghosh02/notezipper-mern-project/blob/main/images/EditPage.png)
 
 ### Create a Note
 
-![](https://github.com/Piyush55dude/notezipper/blob/master/images/create.png)
+![](https://github.com/rohanghosh02/notezipper-mern-project/blob/main/images/CreateNote.png)
 
 ### All Notes
 
@@ -40,7 +40,7 @@ You can register a new account or login with an existing one.
 
 ### Edit Note
 
-![](https://github.com/Piyush55dude/notezipper/blob/master/images/edit.png)
+![](https://github.com/rohanghosh02/notezipper-mern-project/blob/main/images/EditPage.png)
 
 ## Built with
 
@@ -52,6 +52,6 @@ You can register a new account or login with an existing one.
 
 ## Team
 
-[![Rohan Ghosh](https://avatars.githubusercontent.com/u/71579973?s=400&u=55e69a72aa64feec724b34a69844d2920c43fd46&v=4)](https://github.com/rohanghosh02)
+[![Rohan Ghosh](https://avatars.githubusercontent.com/u/71579973?s=200&u=55e69a72aa64feec724b34a69844d2920c43fd46&v=4)](https://github.com/rohanghosh02)
 
 MIT © [Rohan Ghosh ](https://github.com/rohanghosh02)
